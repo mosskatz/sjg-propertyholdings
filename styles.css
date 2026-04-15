@@ -255,8 +255,8 @@ section { padding: 6rem 0; }
 .interiors { background: var(--light); }
 .interiors-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1.5rem;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.2rem;
 }
 .interior {
     position: relative;
